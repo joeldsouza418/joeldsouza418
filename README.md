@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Joel
 
-<!--
-**joeldsouza418/joeldsouza418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
+🤖 Exploring AI & Computer Vision
+🚀 Building real-world projects and learning daily
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React & Node.js
+* MongoDB & Express
+* Machine Learning Basics
+* Full Stack Development
+
+## 🛠️ Tech Stack
+
+* Frontend: React, HTML, CSS, JavaScript
+* Backend: Node.js, Express
+* Database: MongoDB
+* Tools: Git, GitHub, VS Code
+
+## 📌 Goals
+
+* Build impactful full-stack applications
+* Contribute to open source
+* Become a freelance developer
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real projects and solving problems with code.
+
