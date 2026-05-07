@@ -18,7 +18,6 @@ Frontend:
 * HTML
 * CSS
 * Tailwind CSS
-* 
 
 Backend:
 
