@@ -1,30 +1,48 @@
-# Hi there 👋 I'm Joel
+# Joel Dsouza
 
-💻 MERN Stack Developer
-🤖 Exploring AI & Computer Vision
-🚀 Building real-world projects and learning daily
+Full Stack Web Developer and CSE-DS Student passionate about building scalable web applications and exploring machine learning.
 
-## 🌱 Currently Learning
+## About Me
 
-* React & Node.js
-* MongoDB & Express
-* Machine Learning Basics
-* Full Stack Development
+* Computer Science and Engineering (Data Science) student
+* Interested in Full Stack Development and Machine Learning
+* Currently learning modern web technologies and AI concepts
+* Enjoy solving problems and building practical projects
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* Frontend: React, HTML, CSS, JavaScript
-* Backend: Node.js, Express
-* Database: MongoDB
-* Tools: Git, GitHub, VS Code
+Frontend:
 
-## 📌 Goals
+* React
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
 
-* Build impactful full-stack applications
-* Contribute to open source
-* Become a freelance developer
+Backend:
 
-## ⚡ Fun Fact
+* Node.js
+* Express.js
+* Django
 
-I enjoy turning ideas into real projects and solving problems with code.
+Database:
 
+* MongoDB
+* MySQL
+
+Tools:
+
+* Git
+* GitHub
+* VS Code
+
+## Current Focus
+
+* Full Stack Web Development
+* Machine Learning Fundamentals
+* Building real-world projects
+* Data Structures and Algorithms
+
+## Connect
+
+* GitHub: github.com/joeldsouza418
