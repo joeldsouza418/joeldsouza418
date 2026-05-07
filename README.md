@@ -18,24 +18,35 @@ Frontend:
 * HTML
 * CSS
 * Tailwind CSS
+* 
 
 Backend:
 
 * Node.js
 * Express.js
 * Django
+* Rest APIs
 
 Database:
 
 * MongoDB
 * MySQL
+* PostgreSQL
 
 Tools:
 
 * Git
 * GitHub
 * VS Code
+* Postman
+* Docker
 
+Programming Languages:
+
+* Python
+* Java
+* C++
+* JavaScript
 ## Current Focus
 
 * Full Stack Web Development
